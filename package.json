@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Omrika/calc#readme",
   "devDependencies": {
+    "browser-sync": "^2.11.0",
     "gulp": "^3.9.0",
     "gulp-sass": "^2.1.1"
   }
