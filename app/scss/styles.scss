@@ -1,3 +1,32 @@
-body {
+#calc {
+  width: 300px;
+}
+
+.container {
+  overflow: hidden;
+
+}
+.container span{
+  float: left;
+  width:70px;
+  height: 40px;
+}
+/*body {
   background-color: green;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block; 
+}
+
+li {
+  float: left;
+  padding: 4px;
+
+  a {
+    text-decoration: none;
+  }
+}*/
